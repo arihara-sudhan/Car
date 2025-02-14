@@ -1,6 +1,6 @@
 What do you have to do?
 
-> Create A Virtual Environment First
+"Create A Virtual Environment First"
 python3 -m venv envname
 
 > Activate It
